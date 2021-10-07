@@ -6,6 +6,7 @@
 - 🎯 E estou procurando uma vaga remota ou híbrida na area de frontend, manda mensagem no pv aí
 - 📫 Telegram: @rayanaAlmeida
 - 📧 Email: rayana.almeida@icomp.ufam.edu.br
+- LinkedIn: https://www.linkedin.com/in/rayanaalmeida
 
 <!---
 Rannya7x/Rannya7x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
