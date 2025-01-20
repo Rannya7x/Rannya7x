@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a web developer with a keen interest in data s
 
 Here are some of my recent projects:
 
-- **Imersão Backend Alura([link-to-project](https://github.com/Rannya7x/Imersao-Alura-Backend))**: Api Node integrada a um banco de dados que realiza operações básicas. 
+- **Imersão Backend Alura([link-to-project](https://github.com/Rannya7x/Imersao-Alura-Backend))**: Node API integrated with a database that performs basic operations. 
 
 ## 🌱 What I'm currently learning
 
