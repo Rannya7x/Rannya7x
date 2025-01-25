@@ -1,6 +1,6 @@
 # Hi there, I'm Rayana Almeida! 👋
 
-Welcome to my GitHub profile! I'm a web developer with a keen interest in data science. Here you'll find some of my projects and contributions.
+I'm a web developer with a keen interest in data science. Here you'll find some of my projects and contributions.
 
 ## 🔧 Technologies & Tools
 
