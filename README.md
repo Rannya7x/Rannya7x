@@ -4,7 +4,7 @@ I'm a web developer with a keen interest in data science. Here you'll find some 
 
 ## 🔧 Technologies & Tools
 
-- Languages: Python e JavaScript.
+- Languages: Python & JavaScript.
 - Frameworks/Libraries: React, Node, Express, Pandas, Vue
 - Tools: Wordpress, MongoDB, Render, Git, VS Code, Anaconda, Jupyter Notebook
 
@@ -12,7 +12,7 @@ I'm a web developer with a keen interest in data science. Here you'll find some 
 
 Here are some of my recent projects:
 
-- **Imersão Backend Alura([link-to-project](https://github.com/Rannya7x/Imersao-Alura-Backend))**: Node API integrated with a database that performs basic operations. 
+- **Backend Alura([link-to-project](https://github.com/Rannya7x/Imersao-Alura-Backend))**: Node API integrated with a database and frontend that performs basic operations. 
 
 ## 🌱 What I'm currently learning
 
