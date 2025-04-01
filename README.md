@@ -4,7 +4,7 @@ I'm a web developer with a keen interest in data science. Here you'll find some 
 
 ## 🔧 Technologies & Tools
 
-- Languages: Python & JavaScript.
+- Languages: JavaScript and Python.
 - Frameworks/Libraries: React, Node, Express, Pandas, Vue
 - Tools: Wordpress, MongoDB, Render, Git, VS Code, Anaconda, Jupyter Notebook
 
