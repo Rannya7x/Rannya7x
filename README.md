@@ -18,9 +18,10 @@ Here are some of my recent projects:
 
 ## 🌱 What I'm currently learning
 
-- Currently learning python for data science
+- Learning python for data science
 - Reading Python Fluent by Luciano Ramalho
 - Developing Device Management Project
+- Enrolled in Google’s Technical Writing Course
 
 ## 📫 How to reach me
 
