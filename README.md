@@ -13,7 +13,8 @@ I'm a web developer with a keen interest in data science. Here you'll find some 
 
 Here are some of my recent projects:
 
-- **Backend Alura([link-to-project](https://github.com/Rannya7x/Imersao-Alura-Backend))**: A Node.js API for managing posts, connected to a database and frontend  
+- **Backend Alura([link-to-project](https://github.com/Rannya7x/Imersao-Alura-Backend))**: A Node.js API for managing posts, connected to a database and frontend
+- **Autosofia([link-to-project](https://github.com/autosofia))**: A full-stack web app with user authentication, CRUD operations, and a responsive UI for content management.
 
 ## 🌱 What I'm currently learning
 
